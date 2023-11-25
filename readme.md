@@ -15,6 +15,9 @@ Una aplicación simple de lista de tareas (TODO) para organizar y gestionar tus 
 - [Node.js](https://nodejs.org/) instalado
 - [MySQL](https://www.mysql.com/) instalado y configurado
 
+### Base de datos
+Debe importar la base de datos proporcionada en la raiz de ambos proyectos y configurar las variables de entorno
+
 ### Configuración de Variables de Entorno BACK-END
 
 Crea un archivo `.env` en la raíz del proyecto (API) y configura las siguientes variables:
